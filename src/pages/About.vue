@@ -35,7 +35,7 @@
           <span class="mt-2 block text-center text-3xl font-bold leading-8 tracking-tight text-gray-900 sm:text-4xl">Why We Built Discover360</span>
         </h1>
         <div class="mt-10"></div>
-        <iframe width="640" height="360" src="https://fast.wistia.net/embed/iframe/mvmvpnjawf?autoplay=0&amp;wmode=transparent" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen="" mozallowfullscreen="" webkitallowfullscreen="" oallowfullscreen="" msallowfullscreen="" wmode="opaque"></iframe>
+        <iframe width="640" height="360" src="https://fast.wistia.net/embed/iframe/mvmvpnjawf?autoplay=0&amp;wmode=transparent" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen="" webkitallowfullscreen="" oallowfullscreen="" msallowfullscreen="" wmode="opaque"></iframe>
       </div>
     </div>
   </div>
